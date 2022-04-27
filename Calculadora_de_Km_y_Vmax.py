@@ -19,3 +19,5 @@ with col2:
     nn8 = st.number_input("Dame [V3]")
     nn9 = st.number_input("Dame [V4]")
     nn10 = st.number_input("Dame [V5]")
+
+divide=1/nn1
