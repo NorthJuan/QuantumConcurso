@@ -5,3 +5,6 @@ st.text("Este proyecto será realizado para observar el comportamiento de los pa
 st.write("Inserte los valores del sustrato")
 nn1 = st.number_input("Dame [S1]")
 nn2 = st.number_input("Dame [S2]")
+nn3 = st.number_input("Dame [S3]")
+nn4 = st.number_input("Dame [S4]")
+nn5 = st.number_input("Dame [S5]")
