@@ -20,4 +20,4 @@ with col2:
     nn9 = st.number_input("Dame [V4]")
     nn10 = st.number_input("Dame [V5]")
 
-divide=1/nn1
+division = 1/nn1
