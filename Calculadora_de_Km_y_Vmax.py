@@ -21,3 +21,4 @@ with col2:
     nn10 = st.number_input("Dame [V5]")
 
 division = 1/nn1
+print("division =", division)
