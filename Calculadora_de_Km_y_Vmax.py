@@ -5,6 +5,13 @@ st.text("Este proyecto será realizado para observar el comportamiento de los pa
 col1, col2 = st.columns(2)
 
 with col1:
+    st.write("Inserte las concentraciones de los sustrato [S] (mmol/L)")
+    nn1 = st.number_input("Dame [S1]")
+    nn2 = st.number_input("Dame [S2]")
+    nn3 = st.number_input("Dame [S3]")
+    nn4 = st.number_input("Dame [S4]")
+    nn5 = st.number_input("Dame [S5]")
+
 st.write("Inserte las concentraciones de los sustrato [S] (mmol/L)")
 nn1 = st.number_input("Dame [S1]")
 nn2 = st.number_input("Dame [S2]")
