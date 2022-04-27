@@ -4,6 +4,5 @@ st.text("Este proyecto será realizado para observar el comportamiento de los pa
 
 n1 = st.number_input('Inserte un número')
 st.write('El número es ', n1)
-
 n2 = st.number_input('Inserte un número')
 st.write('El número es ', n2)
